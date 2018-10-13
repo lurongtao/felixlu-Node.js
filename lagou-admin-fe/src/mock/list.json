@@ -1,0 +1,37 @@
+{
+  "ret": true,
+  "data": [
+    {
+      "companyLogo": "//www.lgstatic.com/i/image/M00/94/9D/Cgp3O1iawGqAQ6N1AAAmW0oMhAI991.jpg",
+      "companyName": "上海睿渠",
+      "positionName": "运维工程师1",
+      "city": "上海",
+      "createTime": "今天 12:10",
+      "salary": "12K-15K"
+    },
+    {
+      "companyLogo": "//www.lgstatic.com/i/image/M00/94/9D/Cgp3O1iawGqAQ6N1AAAmW0oMhAI991.jpg",
+      "companyName": "上海睿渠",
+      "positionName": "运维工程师2",
+      "city": "上海",
+      "createTime": "今天 12:10",
+      "salary": "12K-15K"
+    },
+    {
+      "companyLogo": "//www.lgstatic.com/i/image/M00/94/9D/Cgp3O1iawGqAQ6N1AAAmW0oMhAI991.jpg",
+      "companyName": "上海睿渠",
+      "positionName": "运维工程师3",
+      "city": "上海",
+      "createTime": "今天 12:10",
+      "salary": "12K-15K"
+    },
+    {
+      "companyLogo": "//www.lgstatic.com/i/image/M00/94/9D/Cgp3O1iawGqAQ6N1AAAmW0oMhAI991.jpg",
+      "companyName": "上海睿渠",
+      "positionName": "运维工程师4",
+      "city": "上海",
+      "createTime": "今天 12:10",
+      "salary": "12K-15K"
+    }
+  ]
+}
