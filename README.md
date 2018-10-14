@@ -2,6 +2,20 @@
 
 > 拉勾网管理系统
 
+## 项目说明
+- 前端技术栈
+* gulp
+* jQuery
+* art-template
+* adminLTE(基于Bootstrap)
+* SME-router(路由库)
+* jQuery-form(图片上传插件)
+* web-storage-cache(本地存储库)
+- 前端架构
+* RMVC架构
+- 前后端架构
+* 前后端完全分离
+
 ## 环境搭建 & 应用启动
 
 ``` bash
