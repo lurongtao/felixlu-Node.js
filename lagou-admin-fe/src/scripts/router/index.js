@@ -4,6 +4,8 @@ import homeController from '../controllers/home.controller'
 import positionController from '../controllers/position.controller'
 import userController from '../controllers/user.controller'
 
+import '../../styles/app.scss'
+
 import {
   ActiveClass,
   NavLink

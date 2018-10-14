@@ -6,7 +6,7 @@ const positionController = require('../controllers/position.controller')
 const fsUploadMiddleware = require('../middlewares/fileupload')
 const authMiddleware = require('../middlewares/auth.js')
 
-router.get('/list', positionController.list)
+router.get('/list', authMiddleware.auth, positionController.list)
 
 router.post('/save', fsUploadMiddleware.fileupload, positionController.save)
 
