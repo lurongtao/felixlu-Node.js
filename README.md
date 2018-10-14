@@ -13,6 +13,14 @@
 * web-storage-cache(本地存储库)
 - 前端架构
 * RMVC架构
+- 后端技术栈
+* Node.js
+* Express
+* EJS
+* MongoDB
+* Mongoose
+* 基于jwt的token认证
+* multer：文件上传处理
 - 前后端架构
 * 前后端完全分离
 
