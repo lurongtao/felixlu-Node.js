@@ -6,7 +6,6 @@
 ### 前端技术栈
 * webpack
 * jQuery
-* socket.io
 * art-template
 * adminLTE(基于Bootstrap)
 * SME-router(路由库)
@@ -19,7 +18,6 @@
 * Express
 * EJS
 * MongoDB
-* socket.io
 * Mongoose
 * 基于jwt的token认证
 * multer：文件上传处理
